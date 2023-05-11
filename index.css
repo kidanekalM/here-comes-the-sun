@@ -50,6 +50,7 @@ body{
     animation: lightup2;
     animation-duration: 40s;
     animation-iteration-count: infinite;
+    text-align: center;
 }
 .mount{
     height: 200vh;
